@@ -1,2 +1,2 @@
-# exercicio_01
-Repositório do exercício 01 - DEV IA Escola da Nuvem
+# Resolução dos exercícios.
+Repositório dos exercícios realizados no curso - DEV IA Escola da Nuvem
